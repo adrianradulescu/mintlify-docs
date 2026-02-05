@@ -1,0 +1,74 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Documentation",
+  "colors": {
+    "primary": "#0D9373"
+  },
+  "navigation": {
+    "products": [
+      {
+        "product": "dasdas",
+        "tabs": [
+          {
+            "tab": "Untitled Tab"
+          },
+          {
+            "tab": "Untitled Tab"
+          },
+          {
+            "tab": "sadsad",
+            "dropdowns": [
+              {
+                "dropdown": "Untitled Dropdown"
+              },
+              {
+                "dropdown": "Untitled Dropdown",
+                "languages": [
+                  {
+                    "language": "en"
+                  }
+                ]
+              },
+              {
+                "dropdown": "Untitled Dropdown"
+              },
+              {
+                "dropdown": "dasdasd",
+                "tabs": [
+                  {
+                    "tab": "Untitled Tab"
+                  },
+                  {
+                    "tab": "Untitled Tab"
+                  },
+                  {
+                    "tab": "Untitled Tab",
+                    "groups": [
+                      {
+                        "group": "csxczzx",
+                        "pages": [
+                          "untitled-page",
+                          "untitled-page",
+                          "untitled-page"
+                        ]
+                      },
+                      {
+                        "group": "Getting Started",
+                        "pages": [
+                          "getting-started/untitled-page",
+                          "untitled-page",
+                          "getting-started/test-page"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
