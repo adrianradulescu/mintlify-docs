@@ -70,5 +70,12 @@
         ]
       }
     ]
+  },
+  "background": {
+    "image": "/Screenshot2024-11-05at17.37.24.png",
+    "decoration": "grid"
+  },
+  "appearance": {
+    "default": "light"
   }
 }
